@@ -1,2 +1,2 @@
 # ShadowClonewrapper
-Designed to use ShadowClone more effeciently
+Designed to use ShadowClone more efficiently 
