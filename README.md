@@ -133,7 +133,6 @@ chmod +x droplet.py drought.py
 - Python 3.6+
 - boto3 ≥ 1.26.0
 - simple-term-menu ≥ 1.6.0
-- Configured AWS credentials
 - Drought.py requires you to login with appropriate AWS IAM permissions on aws cli🔐 
 
 ## 🔄 Tool Chain Configuration
